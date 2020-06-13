@@ -6,7 +6,7 @@
 
 ![Captura de la app](./.readme-static/FrontendMentorCard.png)
 
-[ver la aplicación](https://y-rho.now.sh/)
+[ver la aplicación](https://ismaeljdz.github.io/Card-challengue/)
 
 Thanks for checking out this front-end coding challenge.
 
